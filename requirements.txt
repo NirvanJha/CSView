@@ -4,5 +4,3 @@ numpy
 matplotlib
 openpyxl
 plotly
-ydata-profiling
-streamlit-pandas-profiling
